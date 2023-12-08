@@ -1,2 +1,2 @@
 # guessmynumber
-Guess the number project
+Guess the number game project
